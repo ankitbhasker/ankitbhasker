@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Animated laptop">
-  <!-- Background -->
-  <rect width="100%" height="100%" rx="20" fill="transparent"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="480" viewBox="0 0 800 480"
+     role="img" aria-label="Animated laptop">
 
   <!-- Laptop base -->
-  <g id="base" transform="translate(100,260)">
+  <g id="base" transform="translate(100,320)">
     <rect x="0" y="0" width="600" height="18" rx="6" fill="#2b2f36" />
     <rect x="-20" y="-6" width="640" height="26" rx="8" fill="#222529" />
-    <!-- keyboard hint -->
-    <g id="keys" transform="translate(40,4)" fill="#1b1d20" opacity="0.55">
+    <g transform="translate(40,4)" fill="#1b1d20" opacity="0.55">
       <rect x="0" y="0" width="64" height="6" rx="2"/>
       <rect x="78" y="0" width="480" height="6" rx="2"/>
       <rect x="-12" y="-8" width="624" height="6" rx="2"/>
@@ -16,18 +15,17 @@
   </g>
 
   <!-- Laptop screen group -->
-  <g id="screen" transform="translate(120,40)">
+  <g id="screen" transform="translate(120,80)">
     <!-- screen frame -->
     <rect x="0" y="0" width="560" height="300" rx="10" fill="#111217" stroke="#1f2430" stroke-width="8"/>
-    <!-- inner screen (content area) -->
+    <!-- inner screen -->
     <clipPath id="screen-clip">
       <rect x="16" y="16" width="528" height="268" rx="6"/>
     </clipPath>
     <g clip-path="url(#screen-clip)">
-      <!-- screen background -->
       <rect x="16" y="16" width="528" height="268" fill="#0b1020"/>
 
-      <!-- glow that subtly pulses -->
+      <!-- glow -->
       <radialGradient id="glow" cx="50%" cy="30%" r="60%">
         <stop offset="0%" stop-color="#51b7ff" stop-opacity="0.06">
           <animate attributeName="stop-opacity" values="0.03;0.12;0.03" dur="3.5s" repeatCount="indefinite"/>
@@ -36,29 +34,25 @@
       </radialGradient>
       <rect x="16" y="16" width="528" height="268" fill="url(#glow)"/>
 
-      <!-- code lines (appear in sequence) -->
+      <!-- code lines -->
       <g id="code" transform="translate(40,36)" fill="#9ad8ff" font-family="monospace" font-size="18">
-        <text x="0" y="0" opacity="0">const greeting = "Hello, world!";</text>
-        <text x="0" y="28" opacity="0">function greet() {</text>
-        <text x="20" y="56" opacity="0">console.log(greeting);</text>
-        <text x="0" y="84" opacity="0">}</text>
+        <text id="line1" x="0" y="0" opacity="0">const greeting = "Hello, world!";</text>
+        <text id="line2" x="0" y="28" opacity="0">function greet() {</text>
+        <text id="line3" x="20" y="56" opacity="0">console.log(greeting);</text>
+        <text id="line4" x="0" y="84" opacity="0">}</text>
 
-        <!-- animations causing lines to fade in one after another -->
-        <animate xlink:href="#code text:nth-child(1)" attributeName="opacity" values="0;1" begin="0.2s" dur="0.4s" fill="freeze"/>
-        <animate xlink:href="#code text:nth-child(2)" attributeName="opacity" values="0;1" begin="0.9s" dur="0.35s" fill="freeze"/>
-        <animate xlink:href="#code text:nth-child(3)" attributeName="opacity" values="0;1" begin="1.5s" dur="0.35s" fill="freeze"/>
-        <animate xlink:href="#code text:nth-child(4)" attributeName="opacity" values="0;1" begin="2.1s" dur="0.35s" fill="freeze"/>
+        <animate href="#line1" attributeName="opacity" values="0;1" begin="0.2s" dur="0.4s" fill="freeze"/>
+        <animate href="#line2" attributeName="opacity" values="0;1" begin="0.9s" dur="0.35s" fill="freeze"/>
+        <animate href="#line3" attributeName="opacity" values="0;1" begin="1.5s" dur="0.35s" fill="freeze"/>
+        <animate href="#line4" attributeName="opacity" values="0;1" begin="2.1s" dur="0.35s" fill="freeze"/>
       </g>
 
-      <!-- typing cursor (blinking) -->
-      <rect id="cursor" x="200" y="20" width="6" height="22" fill="#9ad8ff" opacity="0">
+      <!-- blinking cursor -->
+      <rect x="200" y="20" width="6" height="22" fill="#9ad8ff" opacity="0">
         <animate attributeName="opacity" values="0;1;0;1" dur="1s" repeatCount="indefinite"/>
-        <!-- cursor moves slightly to simulate typing after each line appears -->
-        <animateTransform attributeName="transform" type="translate"
-          values="0,0; 0,0; 5,0; 0,0; 5,0" begin="0s" dur="3s" repeatCount="indefinite"/>
       </rect>
 
-      <!-- small status lights (simulate activity) -->
+      <!-- status lights -->
       <g transform="translate(490,240)">
         <circle cx="0" cy="0" r="4" fill="#0f0">
           <animate attributeName="fill-opacity" values="0.15;1;0.15" dur="1.8s" repeatCount="indefinite" />
@@ -68,19 +62,18 @@
         </circle>
       </g>
 
-      <!-- little "spark" that travels across screen occasionally -->
+      <!-- traveling spark -->
       <circle cx="-30" cy="50" r="4" fill="#7ef0ff" opacity="0.0">
         <animate attributeName="cx" from="-30" to="560" dur="6s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0;0.6;0" dur="6s" repeatCount="indefinite"/>
       </circle>
-
     </g>
 
     <!-- hinge shadow -->
     <rect x="220" y="312" width="160" height="16" rx="8" fill="#15181d" opacity="0.5"/>
   </g>
 
-  <!-- subtle open/close animation of screen (gentle) -->
-  <animateTransform xlink:href="#screen" attributeName="transform" type="translate"
-    values="120,45; 120,40; 120,45" dur="6s" repeatCount="indefinite"/>
+  <!-- gentle screen movement -->
+  <animateTransform href="#screen" attributeName="transform" type="translate"
+    values="120,85; 120,80; 120,85" dur="6s" repeatCount="indefinite"/>
 </svg>

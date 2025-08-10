@@ -45,6 +45,15 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
 
 💡 Passionate about **open-source collaboration** and building impactful tools for the scientific community.  
 
+<p align="center">
+  <a href="https://www.ietlucknow.ac.in/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Ietlogo.png" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.srmist.edu.in/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/SRM_Institute_of_Science_and_Technology_Logo.svg/816px-SRM_Institute_of_Science_and_Technology_Logo.svg.png?20250419000644" alt="Gmail" height="40"/>
+  </a>
+</p>
+
 ---
 ![Followers](https://img.shields.io/github/followers/ankitbhasker?style=flat&logo=github)
 ![Stars](https://img.shields.io/github/stars/ankitbhasker?style=flat&logo=github)

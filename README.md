@@ -99,15 +99,17 @@ Custom ML pipeline for analyzing agricultural datasets.
 <!-- BLOG-POST-LIST:END -->
 
 ---
+## 🐍 Fun with Contributions
+![Snake animation](https://github.com/ankitbhasker/ankitbhasker/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+### 💬 Fun Fact  
+_"I don't just fix bugs... I tame them."_ 🐛⚡
 
 ## 📊 Weekly Coding Stats (via WakaTime)  
 <!--START_SECTION:waka-->
 ```text
 No activity tracked
 
-## 🐍 Fun with Contributions
-![Snake animation](https://github.com/ankitbhasker/ankitbhasker/blob/output/github-contribution-grid-snake.svg)  
 
----
-### 💬 Fun Fact  
-_"I don't just fix bugs... I tame them."_ 🐛⚡

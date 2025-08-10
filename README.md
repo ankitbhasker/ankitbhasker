@@ -34,11 +34,12 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
 ![Repos](https://img.shields.io/badge/Public%20Repos-10-blue)
 
 
-## 🛠 Skills & Tools  
+## 🛠️ Skills & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,sklearn,matplotlib,streamlit,tensorflow,pytorch" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,oracle,git,github,pycharm)](https://skillicons.dev)  
+💼 **Also familiar with:** DBMS, Excel, System Engineering, Debugging, Jira, IDLE Python, Deep Learning  
+
+---
 
 **Specialized Areas**  
 - Genome-Wide Association Studies (GWAS)  
@@ -101,3 +102,10 @@ Custom ML pipeline for analyzing agricultural datasets.
 <!--START_SECTION:waka-->
 ```text
 No activity tracked
+
+## 🐍 Fun with Contributions
+![Snake animation](https://github.com/ankitbhasker/ankitbhasker/blob/output/github-contribution-grid-snake.svg)  
+
+---
+### 💬 Fun Fact  
+_"I don't just fix bugs... I tame them."_ 🐛⚡

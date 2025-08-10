@@ -26,13 +26,19 @@
 ---
 
 ## 🚀 About Me  
-I am a Computer Science Engineering graduate from **SRM Institute of Science and Technology, Chennai (2018)**.  
+
+I am a Computer Science Engineering graduate from  
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/SRM_Institute_of_Science_and_Technology_Logo.svg/1024px-SRM_Institute_of_Science_and_Technology_Logo.svg.png" alt="SRM IST" width="30"/> **SRM Institute of Science and Technology, Chennai**](https://www.srmist.edu.in) *(2018)*.  
+
 My professional journey began at **Cognizant** as a **Java Developer**, where I gained strong expertise in backend development and enterprise-level solutions.  
 
 In **2020**, I decided to take a career break to explore new horizons and realign my career path.  
-By **2024**, I developed a deep passion for **Data Science, Artificial Intelligence, and Machine Learning**, which led me to pursue a **Master’s in Technology (Data Science & AI)** at the **Institute of Engineering and Technology, Lucknow**.  
+
+By **2024**, I developed a deep passion for **Data Science, Artificial Intelligence, and Machine Learning**, which led me to pursue a  
+[<img src="https://ietlucknow.ac.in/images/logo.png" alt="IET Lucknow" width="30"/> **Master’s in Technology (Data Science & AI)** at the Institute of Engineering and Technology, Lucknow](https://www.ietlucknow.ac.in).  
 
 I thrive at the intersection of **software engineering** and **data-driven problem solving**, and I’m dedicated to building impactful solutions using modern tools and technologies.
+
 
 I specialize in integrating **Machine Learning**, **Statistical Genomics**, and **Data Science** to analyze large-scale genomic datasets.  
 Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic selection models** for predicting **pest** and **drought resistance** in plants.  

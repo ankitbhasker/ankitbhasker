@@ -39,7 +39,7 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,oracle,git,github,pycharm)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,pycharm)](https://skillicons.dev)  
 💼 **Also familiar with:** DBMS, Excel, System Engineering, Debugging, Jira, IDLE Python, Deep Learning  
 
 ---

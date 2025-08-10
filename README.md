@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ankitbhasker" target="_blank">
+  <a href="https://linkedin.com/in/ankit-bhasker" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   <a href="mailto:bhasker.ankit@gmail.com">
@@ -29,6 +29,10 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
 💡 Passionate about **open-source collaboration** and building impactful tools for the scientific community.  
 
 ---
+![Followers](https://img.shields.io/github/followers/ankitbhasker?style=flat&logo=github)
+![Stars](https://img.shields.io/github/stars/ankitbhasker?style=flat&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-10-blue)
+
 
 ## 🛠 Skills & Tools  
 
@@ -43,6 +47,12 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
 
 ---
 
+### 📝 Latest Articles
+<!-- BLOG-POST-LIST:START -->
+- [Title of Post 1](https://link-to-post)
+- [Title of Post 2](https://link-to-post)
+<!-- BLOG-POST-LIST:END -->
+
 ## 📂 Featured Projects  
 
 🔬 **[GenomeDiseasePlants](https://github.com/ankitbhasker/GenomeDiseasePlants)**  
@@ -55,6 +65,7 @@ Deep learning model for identifying plant diseases from leaf images.
 Custom ML pipeline for analyzing agricultural datasets.
 
 ---
+<!--START_SECTION:waka-->
 
 ## 📈 GitHub Stats  
 
@@ -82,3 +93,7 @@ Custom ML pipeline for analyzing agricultural datasets.
   <br>
   <img src="https://komarev.com/ghpvc/?username=ankitbhasker&color=blue" alt="Profile Views"/>
 </p>
+![Snake animation](https://github.com/ankitbhasker/ankitbhasker/blob/output/github-contribution-grid-snake.svg)
+[![My Skills](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,streamlit,git,github,linux)](https://skillicons.dev)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=ankitbhasker&repo=GenomeDiseasePlants&theme=radical)](https://github.com/ankitbhasker/GenomeDiseasePlants)
+![Visitor Map](https://github.com/ashutosh00710/ashutosh00710/blob/master/assets/github-contribution-grid-snake.svg)

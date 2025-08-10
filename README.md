@@ -18,6 +18,9 @@
   <a href="https://github.com/ankitbhasker" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
+  <a href="https://x.com/ankit__30" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Coast_twitter.png" alt="GitHub" height="40"/>
+  </a>
 </p>
 
 ---
@@ -92,8 +95,7 @@ Custom ML pipeline for analyzing agricultural datasets.
 
 ## 📝 Latest Articles  
 <!-- BLOG-POST-LIST:START -->
-- [Example Article 1](https://link-to-article)
-- [Example Article 2](https://link-to-article)
+- [Dr.ESTO](https://bhaskaraacres.godaddysites.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

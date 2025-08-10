@@ -117,7 +117,7 @@ Custom ML pipeline for analyzing agricultural datasets.
 ---
 <!-- place this where you'd like the animation to show -->
 ### Dev setup in a laptop
-![Animated laptop showing code](/assets/animated-laptop.svg)
+![Animated laptop](https://raw.githubusercontent.com/<username>/<repo>/<branch>/assets/animated-laptop.svg)
 
 
 ### 💬 Fun Fact  

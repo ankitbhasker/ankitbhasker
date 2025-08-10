@@ -115,6 +115,10 @@ Custom ML pipeline for analyzing agricultural datasets.
 ![Snake animation](https://github.com/ankitbhasker/ankitbhasker/blob/output/github-contribution-grid-snake.svg)  
 
 ---
+<!-- place this where you'd like the animation to show -->
+### Dev setup in a laptop
+![Animated laptop showing code](/assets/animated-laptop.svg)
+
 
 ### 💬 Fun Fact  
 _"I don't just fix bugs... I tame them."_ 🐛⚡
@@ -123,5 +127,6 @@ _"I don't just fix bugs... I tame them."_ 🐛⚡
 <!--START_SECTION:waka-->
 ```text
 No activity tracked
+
 
 

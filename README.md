@@ -28,7 +28,7 @@
 ## 🚀 About Me  
 
 I am a Computer Science Engineering graduate from  
-[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/SRM_Institute_of_Science_and_Technology_Logo.svg/1024px-SRM_Institute_of_Science_and_Technology_Logo.svg.png" alt="SRM IST" width="30"/> **SRM Institute of Science and Technology, Chennai**](https://www.srmist.edu.in) *(2018)*.  
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/SRM_Institute_of_Science_and_Technology_Logo.svg/1024px-SRM_Institute_of_Science_and_Technology_Logo.svg.png" alt="SRM IST" width="30"/> **SRM Institute of Science and Technology, Chennai**](https://www.srmist.edu.in/) *(2018)*.  
 
 My professional journey began at **Cognizant** as a **Java Developer**, where I gained strong expertise in backend development and enterprise-level solutions.  
 

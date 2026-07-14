@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+   <a href="https://www.dituniversity.edu.in/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DIT_University_Dehradun_Logo.jpg" alt="LinkedIn" height="40"/>
+  </a>
   <a href="https://linkedin.com/in/ankit-bhasker" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>

@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+   <a href="https://scholar.google.com/citations?user=kQpi5WQAAAAJ&hl=en&oi=ao" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="40"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Ankit-Bhasker-2?ev=hdr_xprf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Research Gate" height="40"/>
+  </a>
   <a href="https://linkedin.com/in/ankit-bhasker" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>

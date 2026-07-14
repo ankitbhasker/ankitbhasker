@@ -39,7 +39,7 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Ietlogo.png" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://www.srmist.edu.in/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/SRM_Institute_of_Science_and_Technology_Logo.svg/816px-SRM_Institute_of_Science_and_Technology_Logo.svg.png?20250419000644" alt="Gmail" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/SRM_Institute_of_Science_and_Technology_Logo.svg/816px-SRM_Institute_of_Science_and_Technology_Logo.svg.png?20250419000644](https://www.dropbox.com/scl/fi/63li8z2mmrchttrya2sc0/SRM-LOGO.png?rlkey=hrz3z4ht9yoy8gwbx1vm8e59f&st=s2v1fudo&dl=0)" alt="Gmail" height="40"/>
   </a>
 </p>
 

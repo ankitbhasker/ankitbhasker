@@ -30,9 +30,11 @@
 <p align="justify">
 I am a Computer Science Engineering graduate from <a href="https://www.srmist.edu.in/"><b>SRM Institute of Science and Technology, Chennai</b></a> (2018). My professional journey began at <b>Cognizant</b> as a Java Developer, where I gained expertise in backend development and enterprise-level solutions. In 2020, I decided to take a career break to explore new horizons. By 2024, I developed a strong passion for Data Science, Artificial Intelligence, and Machine Learning, which led me to pursue a <a href="https://www.ietlucknow.ac.in"><b>Master’s in Technology (Data Science & AI)</b> at the Institute of Engineering and Technology, Lucknow</a>. I thrive at the intersection of software engineering and data-driven problem solving, and I am committed to building impactful, innovative solutions using modern tools and technologies.
 </p>
-I specialize in integrating **Machine Learning**, **Statistical Genomics**, and **Data Science** to analyze large-scale genomic datasets.  
-Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic selection models** for predicting **pest** and **drought resistance** in plants.  
-💡 Passionate about **open-source collaboration** and building impactful tools for the scientific community.  
+🧠 I also explore Deep Learning, Natural Language Processing (NLP), Clinical AI, and Electronic Health Record (EHR) analytics, with a particular interest in developing intelligent computational frameworks for complex healthcare and biomedical problems.
+
+🎓 I am passionate about academia, teaching, and research, and I enjoy working on interdisciplinary problems that connect Computer Science, Artificial Intelligence, Healthcare, and Bioinformatics.
+
+💡 I strongly believe in open-source research, reproducible science, and academic collaboration, with the goal of developing impactful computational tools and research frameworks for the broader scientific community.
 
 <p align="center">
   <a href="https://www.ietlucknow.ac.in/" target="_blank">
@@ -59,7 +61,8 @@ Currently working on **Genome-Wide Association Studies (GWAS)** and **genomic se
 
 **Specialized Areas**  
 - Genome-Wide Association Studies (GWAS)  
-- Deep Learning for Genomics & Agriculture  
+- Deep Learning for Genomics & Agriculture
+- Deep Learning for Healthcare
 - Data Visualization (Seaborn, Plotly)  
 
 ---

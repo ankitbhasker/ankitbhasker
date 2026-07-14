@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-   <a href="https://www.dituniversity.edu.in/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DIT_University_Dehradun_Logo.jpg" alt="LinkedIn" height="40"/>
-  </a>
   <a href="https://linkedin.com/in/ankit-bhasker" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
@@ -40,6 +37,9 @@ I am a Computer Science Engineering graduate from <a href="https://www.srmist.ed
 💡 I strongly believe in open-source research, reproducible science, and academic collaboration, with the goal of developing impactful computational tools and research frameworks for the broader scientific community.
 
 <p align="center">
+  <a href="https://www.dituniversity.edu.in/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DIT_University_Dehradun_Logo.jpg" alt="LinkedIn" height="40"/>
+  </a>
   <a href="https://www.ietlucknow.ac.in/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Ietlogo.png" alt="LinkedIn" height="40"/>
   </a>
